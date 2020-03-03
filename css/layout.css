@@ -828,6 +828,10 @@ call-to-action .button {
 }
 #contact .header-col { padding-top: 6px; }
 
+/* new contact */
+#new-contact div{
+   align-items: center;
+}
 
 /* contact form */
 #contact form { margin-bottom: 30px; }
